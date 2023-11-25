@@ -1,0 +1,9 @@
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Release\ExtractData.BusinessLayer.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Release\ExtractData.BusinessLayer.pdb
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Release\ExtractData.Common.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Release\ExtractData.DataLayer.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Release\ExtractData.Common.pdb
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Release\ExtractData.DataLayer.pdb
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\obj\Release\ResolveAssemblyReference.cache
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\obj\Release\ExtractData.BusinessLayer.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\obj\Release\ExtractData.BusinessLayer.pdb

@@ -1,0 +1,10 @@
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.Common\bin\Debug\IQETools.Common.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.Common\bin\Debug\IQETools.Common.pdb
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.Common\obj\Debug\IQETools.Common.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.Common\obj\Debug\IQETools.Common.pdb
+C:\Saurav\Projects\IQETools\IQETools.Common\bin\Debug\IQETools.Common.dll
+C:\Saurav\Projects\IQETools\IQETools.Common\bin\Debug\IQETools.Common.pdb
+C:\Saurav\Projects\IQETools\IQETools.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Saurav\Projects\IQETools\IQETools.Common\obj\Debug\IQETools.Common.dll
+C:\Saurav\Projects\IQETools\IQETools.Common\obj\Debug\IQETools.Common.pdb

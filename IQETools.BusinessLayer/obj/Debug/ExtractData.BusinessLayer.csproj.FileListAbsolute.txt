@@ -1,0 +1,18 @@
+C:\Saurav\Projects\ExtractData\ExtractData.BusinessLayer\bin\Debug\ExtractData.BusinessLayer.dll
+C:\Saurav\Projects\ExtractData\ExtractData.BusinessLayer\bin\Debug\ExtractData.BusinessLayer.pdb
+C:\Saurav\Projects\ExtractData\ExtractData.BusinessLayer\bin\Debug\ExtractData.Common.dll
+C:\Saurav\Projects\ExtractData\ExtractData.BusinessLayer\bin\Debug\ExtractData.DataLayer.dll
+C:\Saurav\Projects\ExtractData\ExtractData.BusinessLayer\bin\Debug\ExtractData.Common.pdb
+C:\Saurav\Projects\ExtractData\ExtractData.BusinessLayer\bin\Debug\ExtractData.DataLayer.pdb
+C:\Saurav\Projects\ExtractData\ExtractData.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Saurav\Projects\ExtractData\ExtractData.BusinessLayer\obj\Debug\ExtractData.BusinessLayer.dll
+C:\Saurav\Projects\ExtractData\ExtractData.BusinessLayer\obj\Debug\ExtractData.BusinessLayer.pdb
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Debug\ExtractData.BusinessLayer.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Debug\ExtractData.BusinessLayer.pdb
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Debug\ExtractData.Common.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Debug\ExtractData.DataLayer.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Debug\ExtractData.Common.pdb
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Debug\ExtractData.DataLayer.pdb
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\obj\Debug\ExtractData.BusinessLayer.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\obj\Debug\ExtractData.BusinessLayer.pdb

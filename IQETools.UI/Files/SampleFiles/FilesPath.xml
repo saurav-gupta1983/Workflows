@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<server Path="\\chinar-svr\ai-builds\AI_Releases" FileType="csv" FileFormat="Version-Locales">
+  <AI16>
+    <MAC CreateFolder="true" EnglishRef="\\chinar-svr\ai-builds\AI_Releases\AI16\mac64\English\Build_No\Blueprint\AI64-en_US.csv">
+      <Asia>
+        <Build_No>
+          <Blueprint>
+          </Blueprint>
+        </Build_No>
+      </Asia>
+      <ContinentalEurope>
+        <Build_No>
+          <Blueprint>
+          </Blueprint>
+        </Build_No>
+      </ContinentalEurope>
+      <EasternEurope>
+        <Build_No>
+          <Blueprint>
+          </Blueprint>
+        </Build_No>
+      </EasternEurope>
+      <English>
+        <Build_No>
+          <Blueprint>
+          </Blueprint>
+        </Build_No>
+      </English>
+    </MAC>
+    <MAC64 CreateFolder="true" EnglishRef="\\chinar-svr\ai-builds\AI_Releases\AI16\mac64\English\Build_No\Blueprint\AI64-en_US.csv">
+      <English>
+        <Build_No>
+          <Blueprint>
+          </Blueprint>
+        </Build_No>
+      </English>
+    </MAC64>
+    <WIN CreateFolder="true"  EnglishRef="\\chinar-svr\ai-builds\AI_Releases\AI16\WIN\English\Build_No\Blueprint">
+      <Asia>
+        <Build_No>
+          <Blueprint>
+          </Blueprint>
+        </Build_No>
+      </Asia>
+      <ContinentalEurope>
+        <Build_No>
+          <Blueprint>
+          </Blueprint>
+        </Build_No>
+      </ContinentalEurope>
+      <EasternEurope>
+        <Build_No>
+          <Blueprint>
+          </Blueprint>
+        </Build_No>
+      </EasternEurope>
+      <English>
+        <Build_No>
+          <Blueprint>
+          </Blueprint>
+        </Build_No>
+      </English>
+    </WIN>
+  </AI16>
+</server>

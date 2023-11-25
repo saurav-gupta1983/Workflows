@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EF3F5AD7-ECF1-4BD1-B70F-4FD13140F030}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ExtractData.UI</RootNamespace>
+    <AssemblyName>IQETools.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Alx.Web.Screenshot, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Web.Screenshot.1.0.0.1\lib\net40\Alx.Web.Screenshot.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\AboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AboutUs.Designer.cs">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BlueprintComparisonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BlueprintComparisonForm.Designer.cs">
+      <DependentUpon>BlueprintComparisonForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TestURLs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TestURLs.Designer.cs">
+      <DependentUpon>TestURLs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EncodeDecode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EncodeDecode.Designer.cs">
+      <DependentUpon>EncodeDecode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MogrtsFormats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MogrtsFormats.Designer.cs">
+      <DependentUpon>MogrtsFormats.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ValidateMetadataCSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ValidateMetadataCSV.designer.cs">
+      <DependentUpon>ValidateMetadataCSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MetadataValidation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MetadataValidation.designer.cs">
+      <DependentUpon>MetadataValidation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UploadTestCasesToJIRAFromExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UploadTestCasesToJIRAFromExcel.designer.cs">
+      <DependentUpon>UploadTestCasesToJIRAFromExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FindMissingStrings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FindMissingStrings.designer.cs">
+      <DependentUpon>FindMissingStrings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\AboutUs.resx">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BlueprintComparisonForm.resx">
+      <DependentUpon>BlueprintComparisonForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TestURLs.resx">
+      <DependentUpon>TestURLs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EncodeDecode.resx">
+      <DependentUpon>EncodeDecode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MogrtsFormats.resx">
+      <DependentUpon>MogrtsFormats.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ValidateMetadataCSV.resx">
+      <DependentUpon>ValidateMetadataCSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MetadataValidation.resx">
+      <DependentUpon>MetadataValidation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UploadTestCasesToJIRAFromExcel.resx">
+      <DependentUpon>UploadTestCasesToJIRAFromExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FindMissingStrings.resx">
+      <DependentUpon>FindMissingStrings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Files\BPGenerationFiles\BPGenerator.py" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\IQETools.BusinessLayer\BusinessLayer.csproj">
+      <Project>{4A53C08D-5261-48A8-84E4-C4C75526D086}</Project>
+      <Name>BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IQETools.Common\Common.csproj">
+      <Project>{58F04958-BDAB-4A55-8CF5-738699E0F094}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Files\Images\App.ico" />
+    <Content Include="Files\SampleFiles\FilesPath.xml" />
+    <Content Include="Files\SampleFiles\FilesPathTemp.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

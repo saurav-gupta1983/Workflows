@@ -1,0 +1,10 @@
+C:\Saurav\Projects\ExtractData\ExtractData.Common\bin\Debug\ExtractData.Common.dll
+C:\Saurav\Projects\ExtractData\ExtractData.Common\bin\Debug\ExtractData.Common.pdb
+C:\Saurav\Projects\ExtractData\ExtractData.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Saurav\Projects\ExtractData\ExtractData.Common\obj\Debug\ExtractData.Common.dll
+C:\Saurav\Projects\ExtractData\ExtractData.Common\obj\Debug\ExtractData.Common.pdb
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.Common\bin\Debug\ExtractData.Common.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.Common\bin\Debug\ExtractData.Common.pdb
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.Common\obj\Debug\ExtractData.Common.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.Common\obj\Debug\ExtractData.Common.pdb

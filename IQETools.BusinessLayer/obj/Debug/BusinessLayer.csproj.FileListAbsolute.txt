@@ -1,0 +1,18 @@
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Debug\IQETools.BusinessLayer.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Debug\IQETools.BusinessLayer.pdb
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Debug\IQETools.Common.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Debug\IQETools.DataLayer.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Debug\IQETools.Common.pdb
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\bin\Debug\IQETools.DataLayer.pdb
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\obj\Debug\IQETools.BusinessLayer.dll
+C:\Saurav\Projects\Blueprint Comparison\ExtractData.BusinessLayer\obj\Debug\IQETools.BusinessLayer.pdb
+C:\Saurav\Projects\IQETools\IQETools.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Saurav\Projects\IQETools\IQETools.BusinessLayer\obj\Debug\IQETools.BusinessLayer.pdb
+C:\Saurav\Projects\IQETools\IQETools.BusinessLayer\bin\Debug\IQETools.BusinessLayer.dll
+C:\Saurav\Projects\IQETools\IQETools.BusinessLayer\bin\Debug\IQETools.BusinessLayer.pdb
+C:\Saurav\Projects\IQETools\IQETools.BusinessLayer\bin\Debug\IQETools.Common.dll
+C:\Saurav\Projects\IQETools\IQETools.BusinessLayer\bin\Debug\IQETools.DataLayer.dll
+C:\Saurav\Projects\IQETools\IQETools.BusinessLayer\bin\Debug\IQETools.Common.pdb
+C:\Saurav\Projects\IQETools\IQETools.BusinessLayer\bin\Debug\IQETools.DataLayer.pdb
+C:\Saurav\Projects\IQETools\IQETools.BusinessLayer\obj\Debug\IQETools.BusinessLayer.dll

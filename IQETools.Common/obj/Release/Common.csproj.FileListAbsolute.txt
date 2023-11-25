@@ -1,0 +1,10 @@
+C:\Saurav\Projects\IQETools\IQETools.Common\bin\Release\IQETools.Common.dll
+C:\Saurav\Projects\IQETools\IQETools.Common\bin\Release\IQETools.Common.pdb
+C:\Saurav\Projects\IQETools\IQETools.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Saurav\Projects\IQETools\IQETools.Common\obj\Release\IQETools.Common.dll
+C:\Saurav\Projects\IQETools\IQETools.Common\obj\Release\IQETools.Common.pdb
+C:\Saurav\Self\Projects\Internal\IQETools\IQETools.Common\bin\Release\IQETools.Common.dll
+C:\Saurav\Self\Projects\Internal\IQETools\IQETools.Common\bin\Release\IQETools.Common.pdb
+C:\Saurav\Self\Projects\Internal\IQETools\IQETools.Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Saurav\Self\Projects\Internal\IQETools\IQETools.Common\obj\Release\IQETools.Common.dll
+C:\Saurav\Self\Projects\Internal\IQETools\IQETools.Common\obj\Release\IQETools.Common.pdb
